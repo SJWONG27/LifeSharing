@@ -1,0 +1,17 @@
+.mainpage{
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+
+
+    .mainpageContainer1{
+        display: flex;
+        align-self: center;
+        width: 50%;
+        margin-bottom: 2rem;
+
+        .d-flex{
+            width: 100%;
+        }
+    }
+}
